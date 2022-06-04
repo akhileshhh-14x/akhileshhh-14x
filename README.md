@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Sanikop</h1>
+<h1 align="center">Hi , I'm Akhilesh Sanikop</h1>
 <h3 align="center">A Student at KLS GIT, Belagavi pursuing Computer Science & Engineering</h3>
 
 - 🔭 I’m currently working on **ASCE**
