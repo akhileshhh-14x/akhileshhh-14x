@@ -1,17 +1,13 @@
 <h1 align="center">Hi , I'm Akhilesh Sanikop</h1>
-<h3 align="center">A Student at KLS GIT, Belagavi pursuing Computer Science & Engineering</h3>
+<h3 align="center">A Computer Science & Engineering graduate, Working Professional</h3>
 
-- 🔭 I’m currently working on **ASCE**
+- I’m currently working in **Ittiam Systems Pvt. Ltd**
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- Ask me about **Graphic Designing**
 
-- 💬 Ask me about **Graphic Designing**
+- How to reach me **akhileshsanikop@gmail.com**
 
-- 📫 How to reach me **akhileshsanikop@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BmaXuib1wPizuFy2uwCVFoUwqAcG75Q-/view?usp=sharing](https://drive.google.com/file/d/1BmaXuib1wPizuFy2uwCVFoUwqAcG75Q-/view?usp=sharing)
-
-- ⚡ Fun fact **I like to Danceee...!!!**
+- Know about my experiences [https://drive.google.com/file/d/1BmaXuib1wPizuFy2uwCVFoUwqAcG75Q-/view?usp=sharing](https://drive.google.com/file/d/1BmaXuib1wPizuFy2uwCVFoUwqAcG75Q-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
